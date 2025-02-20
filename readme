@@ -1,0 +1,7 @@
+// Requirements
+
+1) a phonenumber form to submit phone number
+2) a otp shaped form with given length as input
+3) focus should be on first block
+4) after filling first block, focus should shift on next block.
+5) deleting should cause user to move backwards
